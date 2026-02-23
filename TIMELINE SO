@@ -1,13 +1,68 @@
 Linha do Tempo da Aula:
-A aula apresentou professor e alunos, introduziu a disciplina e encerrou com uma demonstração prática de GitHub e Miro, alinhando expectativas, metodologia e preparo para colaboração e versionamento.
-1. Introdução do Professor
-No começo da aula, o professor Deivison se apresentou, resumindo sua formação e experiência 
-em Sistemas de operacionais e suas áreas de interesse. 
-Explicou sua abordagem de ensino baseada em participação, projetos e feedback contínuo, e alinhou canais de comunicação e apoio ao longo do semestre.
-2. Apresentação dos Alunos
- Os alunos se apresentaram, compartilhando trajetórias, interesses e expectativas para o curso e a carreira. 
-A dinâmica funcionou como quebra-gelo e forneceu ao professor insumos para ajustar exemplos, ritmo e estratégias didáticas.
-3. Desenvolvimento do Conceito da Disciplina
-Foi apresentado o conceito da disciplina, que integra pessoas, processos, dados e tecnologia para apoiar decisões e gerar valor.
-Explicou-se a metodologia ativo-participativa com aulas dialogadas, estudos de caso e atividades de laboratório, além de avaliação contínua com participação
-exercícios e um projeto em equipe; GitHub e Miro foram introduzidos como pilares de colaboração integrados ao método.
+
+1ª Geração (1940–1956) — As máquinas colossais das válvulas
+Imagine entrar em uma sala inteira tomada por gabinetes metálicos, fios grossos, luzes piscando e um calor quase sufocante. 
+Assim eram os computadores da primeira geração: gigantes mecânicos construídos com válvulas de vácuo, que lembravam pequenas lâmpadas de vidro. 
+Cada válvula podia queimar a qualquer momento, e milhares delas eram necessárias para que a máquina funcionasse.
+Esses computadores não tinham telas, nem teclados. A interação era feita por cartões perfurados, que carregavam instruções rígidas e sequenciais. 
+O som constante das ventoinhas e o cheiro de componentes aquecidos faziam parte do ambiente.
+O ENIAC, por exemplo, pesava cerca de 30 toneladas e consumia tanta energia quanto uma pequena cidade. Mesmo assim, 
+representava um salto gigantesco: pela primeira vez, cálculos complexos podiam ser feitos em minutos, não em dias.
+Era o nascimento da computação moderna. 
+
+Funcionamento: sistemas baseados em lógica formal e regras “se-então”.
+Sensação: como conversar com uma enciclopédia que só responde dentro do que foi programado.
+Curiosidade: o famoso programa ELIZA (1966) simulava um psicoterapeuta, repetindo frases do usuário para dar a impressão de compreensão.
+Limitação: incapaz de aprender ou se adaptar — qualquer mudança exigia reprogramação manual.
+
+2ª Geração (1956–1964) — O brilho frio dos transistores
+Com a chegada do transistor, tudo mudou. Pequeno, resistente e eficiente, ele substituiu as válvulas e inaugurou uma nova era. 
+Os computadores deixaram de ser monstros barulhentos e passaram a ocupar salas menores, com menos calor e muito mais confiabilidade.
+A sensação de operar um computador tornou-se menos industrial e mais técnica. 
+Agora, era possível programar usando linguagens de alto nível, como COBOL e FORTRAN, que aproximavam o ser humano da máquina. 
+A computação começou a se espalhar por empresas, universidades e centros de pesquisa, deixando de ser um privilégio militar ou governamental.
+Os computadores dessa geração já eram capazes de processar dados comerciais, cálculos científicos e tarefas administrativas
+tornando-se ferramentas essenciais para o avanço tecnológico da época. 
+
+Funcionamento: modelos estatísticos que analisam dados e estimam probabilidades.
+Sensação: uma máquina que não dá certezas, mas palpites inteligentes.
+Curiosidade: os primeiros filtros de spam nasceram aqui, diferenciando e-mails legítimos de indesejados.
+Limitação: dependia de grandes volumes de dados, mas ainda não “aprendia” de forma autônoma.
+
+3ª Geração (1964–1971) — O cérebro em miniatura: circuitos integrados
+A invenção dos circuitos integrados foi como colocar uma cidade inteira dentro de um único quarteirão.
+Vários transistores passaram a ser agrupados em um chip minúsculo, aumentando drasticamente a capacidade de processamento.
+Os computadores ficaram mais elegantes, mais rápidos e mais acessíveis. Pela primeira vez, surgiram os sistemas operacionais, que permitiam que várias tarefas fossem executadas ao mesmo tempo.
+A experiência de uso tornou-se mais fluida: o operador já não precisava controlar cada detalhe do hardware, pois o sistema cuidava disso.
+Essa geração marcou o início da computação como a conhecemos: máquinas versáteis, capazes de rodar diferentes programas e atender a múltiplas necessidades. 
+
+Funcionamento: algoritmos como árvores de decisão, redes neurais simples e SVMs.
+Sensação: uma máquina que melhora com a prática, como um aluno que aprende com exercícios.
+Curiosidade: competições como o ImageNet Challenge impulsionaram avanços incríveis em reconhecimento de imagens.
+Impacto: bancos passaram a usar IA para detectar fraudes, médicos para prever doenças e empresas para entender clientes.
+
+4ª Geração (1971–1980s) — O microprocessador e o nascimento do computador pessoal
+O microprocessador foi um marco tão grande quanto a invenção da roda para o transporte.
+Pela primeira vez, toda a CPU cabia em um único chip. Isso permitiu que computadores
+deixassem de ser equipamentos exclusivos de grandes instituições e chegassem às mesas de trabalho — e, pouco depois, às casas.
+A sensação de ligar um computador pessoal pela primeira vez era quase mágica: uma máquina inteira ao alcance das mãos.
+Surgiram empresas como Apple, IBM e Microsoft, que moldaram o futuro da computação. Interfaces gráficas começaram a aparecer
+tornando o uso mais intuitivo e visual.
+O computador deixou de ser apenas uma ferramenta técnica e tornou-se um objeto cultural, presente no cotidiano, no trabalho, no lazer e na educação. 
+
+Funcionamento: redes neurais profundas com milhões de parâmetros.
+Sensação: como conversar com alguém que entende imagens, voz e texto quase como um humano.
+Curiosidade: em 2016, o AlphaGo derrotou o campeão mundial de Go, um jogo considerado impossível para máquinas.
+Impacto: surgem carros autônomos, diagnósticos médicos avançados, reconhecimento facial e assistentes virtuais como Siri e Alexa.
+
+5ª Geração (1980s–presente) — Inteligência, conectividade e ubiquidade
+A quinta geração não é definida por um único componente, mas por uma convergência de tecnologias. 
+A inteligência artificial, o processamento paralelo, a internet, os dispositivos móveis e a computação em nuvem transformaram o computador em algo quase invisível — mas presente em tudo.
+Hoje, computadores estão em relógios, carros, eletrodomésticos, hospitais, escolas e até em objetos cotidianos.
+A experiência deixou de ser sobre “usar um computador” e passou a ser sobre “viver conectado”.
+A IA permite que máquinas aprendam, reconheçam padrões, tomem decisões e até criem conteúdo. A computação quântica, ainda em desenvolvimento, promete romper limites que hoje parecem intransponíveis.
+
+Funcionamento: modelos gigantes, treinados com trilhões de parâmetros, capazes de gerar conteúdo original.
+Sensação: como conversar com um parceiro criativo, que pode escrever histórias, desenhar quadros ou compor músicas.
+Curiosidade: ferramentas como ChatGPT, DALL·E e Midjourney conseguem produzir resultados que parecem feitos por humanos.
+Impacto: revoluciona educação, arte, ciência e negócios, permitindo colaboração humano-máquina em níveis nunca vistos.
