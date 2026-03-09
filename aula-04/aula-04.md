@@ -1,17 +1,15 @@
 # Sistemas Operacionais Baseados em Outros Sistemas
 
 ## Introdução
-Diversos sistemas operacionais são desenvolvidos utilizando como base outros sistemas já existentes. Isso pode ocorrer por meio do uso do **kernel**, da **arquitetura** ou da **estrutura** do sistema original. Essa abordagem permite reaproveitar tecnologias consolidadas e acelerar o desenvolvimento de novos sistemas.
-
-Neste trabalho foram pesquisados **5 sistemas operacionais derivados ou baseados em outros sistemas**, analisando suas diferenças e características.
+Diversos sistemas operacionais são desenvolvidos utilizando como base outros sistemas já existentes. Isso pode ocorrer por meio do uso do **kernel**, da **arquitetura** ou da **estrutura** do sistema original.
 
 ---
 
 # 1. Android
 
-![Android](https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg)
+<img src="assets/android.png" width="200">
 
-O **Android** é um sistema operacional móvel desenvolvido pelo Google. Ele é baseado no **kernel do Linux**, mas possui diversas modificações e componentes próprios para dispositivos móveis, como smartphones e tablets.
+O **Android** é um sistema operacional móvel desenvolvido pelo Google. Ele é baseado no **kernel do Linux**, mas possui diversas modificações para dispositivos móveis.
 
 **Sistema base**
 - Kernel: Linux
@@ -20,9 +18,9 @@ O **Android** é um sistema operacional móvel desenvolvido pelo Google. Ele é 
 
 # 2. Zorin OS
 
-![Zorin OS](https://upload.wikimedia.org/wikipedia/commons/7/76/Zorin_Logomark.svg)
+<img src="assets/zorin.png" width="200">
 
-O **Zorin OS** é uma distribuição Linux criada para facilitar a transição de usuários do Windows para Linux. Ele é **baseado no Ubuntu**, utilizando seus repositórios e estrutura.
+O **Zorin OS** é uma distribuição Linux criada para facilitar a transição de usuários do Windows para Linux.
 
 **Sistema base**
 - Baseado em: Ubuntu (Linux)
@@ -31,9 +29,9 @@ O **Zorin OS** é uma distribuição Linux criada para facilitar a transição d
 
 # 3. elementary OS
 
-![elementary OS](https://upload.wikimedia.org/wikipedia/commons/3/3c/Elementary_OS_logo.svg)
+<img src="assets/elementary.png" width="200">
 
-O **elementary OS** é um sistema operacional focado em design e simplicidade, muito semelhante ao macOS visualmente. Ele é **baseado no Ubuntu LTS** e utiliza o kernel Linux.
+O **elementary OS** é um sistema operacional focado em design e simplicidade.
 
 **Sistema base**
 - Baseado em: Ubuntu
@@ -42,9 +40,9 @@ O **elementary OS** é um sistema operacional focado em design e simplicidade, m
 
 # 4. SparkyLinux
 
-![SparkyLinux](https://upload.wikimedia.org/wikipedia/commons/1/1f/SparkyLinux-logo.png)
+<img src="assets/sparky.png" width="200">
 
-O **SparkyLinux** é uma distribuição Linux leve voltada para desktops e computadores com menos recursos. Ele é **baseado no Debian**, utilizando sua estrutura e gerenciador de pacotes.
+O **SparkyLinux** é uma distribuição Linux leve voltada para desktops.
 
 **Sistema base**
 - Baseado em: Debian
@@ -53,9 +51,9 @@ O **SparkyLinux** é uma distribuição Linux leve voltada para desktops e compu
 
 # 5. postmarketOS
 
-![postmarketOS](https://upload.wikimedia.org/wikipedia/commons/6/6e/PostmarketOS_logo.svg)
+<img src="assets/postmarket.png" width="200">
 
-O **postmarketOS** é um sistema operacional para smartphones baseado na distribuição **Alpine Linux**. Ele foi criado para oferecer suporte de longo prazo a dispositivos móveis.
+O **postmarketOS** é um sistema operacional para smartphones baseado em Alpine Linux.
 
 **Sistema base**
 - Baseado em: Alpine Linux
@@ -66,16 +64,8 @@ O **postmarketOS** é um sistema operacional para smartphones baseado na distrib
 
 | Sistema Operacional | Sistema Base | Tipo de Dispositivo | Principais Diferenças |
 |---|---|---|---|
-| Android | Linux Kernel | Smartphones e tablets | Interface mobile, runtime próprio (ART) e biblioteca Bionic |
+| Android | Linux Kernel | Smartphones e tablets | Interface mobile e otimizações para celulares |
 | Zorin OS | Ubuntu | Desktop | Interface semelhante ao Windows |
-| elementary OS | Ubuntu LTS | Desktop | Interface própria (Pantheon) focada em design |
+| elementary OS | Ubuntu LTS | Desktop | Interface própria chamada Pantheon |
 | SparkyLinux | Debian | Desktop | Sistema leve com múltiplos ambientes gráficos |
-| postmarketOS | Alpine Linux | Smartphones | Projetado para prolongar vida útil de celulares |
-
----
-
-# Conclusão
-
-A reutilização de tecnologias existentes é comum no desenvolvimento de sistemas operacionais. Muitos sistemas modernos utilizam **kernels ou arquiteturas de sistemas anteriores**, permitindo maior estabilidade, compatibilidade e rapidez no desenvolvimento.
-
-No caso estudado, observa-se que grande parte dos sistemas analisados utiliza **Linux como base**, mostrando a importância desse kernel no ecossistema de software atual.
+| postmarketOS | Alpine Linux | Smartphones | Sistema focado em longevidade de dispositivos |
